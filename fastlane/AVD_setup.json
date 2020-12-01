@@ -1,0 +1,19 @@
+{
+  "avd_list": [
+    {
+      "avd_name": "Nexus_One_API_27",
+
+      "create_avd_package": "system-images;android-27;x86_64",
+      "create_avd_device": "Nexus One",
+      "create_avd_tag": "google_apis",
+      "create_avd_abi": "x86_64",
+      "create_avd_additional_options": "",
+      "create_avd_hardware_config_filepath": "",
+
+      "launch_avd_port": "",
+      "launch_avd_snapshot_filepath": "",
+      "launch_avd_launch_binary_name": "emulator",
+      "launch_avd_additional_options": "-gpu on"
+    }
+  ]
+}
